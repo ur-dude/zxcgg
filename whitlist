@@ -2,7 +2,7 @@ local firstUser = "RobloxRoblox46713"
 local secondus = "oneshotxgod"
 local player = game.Players.LocalPlayer
 
-if player.Name == firstUser or player.Name == secondus then
+if player.Name == firstUser
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ur-dude/zxcgg/main/Script", true))()
     print('Connected!')
     else
@@ -10,3 +10,8 @@ if player.Name == firstUser or player.Name == secondus then
         print('getrekt')
         end
         -- gs is
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/CBRO", true))()
+if player.Name == secondus then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/CBRO", true))()
+    print('Connected!')
+    end

